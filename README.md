@@ -1,20 +1,4 @@
-# polite-sheep-7319
-
-# HEALTH & FITNESS REACT APP
-
------
-### Version 1 : 
-Project: Health & Fitness website with complete authentication made using React.js
-Original-Design: [HERE!](https://www.behance.net/gallery/78953297/Health-Fitness-Mobile-App-UI-UX-Kit?tracking_source=search_projects%7Chealth+fitness)
-
-Health & Fitness-Website version 1 hosted [HERE!](https://healthfitness1reactapp.netlify.app/)
-
-**Progress:**
-
-Version 1 completed and hosted
-
-Version 2 Progress: 50%
-
+# HEALTH & FITNESS Tracker
 
 ## Landing Page
 ![health fitness](https://github.com/rohansah29/polite-sheep-7319/assets/119648587/548ca961-afd8-44c4-910a-5d0c73896b1b)
@@ -31,13 +15,11 @@ In this project i have tried to manipulate dom elements, styling using css and t
 * React.js
 * CSS3
 * rest-api
-* auth0
-* swal
-* aos-animation
 
-For storing user data i used localStorage & JSON-Server.
+For storing user data I used localStorage & JSON-Server.
 
 ### How to run the Project
+
 ### Install
 
 Follow the following steps to get development environment running.
@@ -45,13 +27,7 @@ Follow the following steps to get development environment running.
 * Clone repository from GitHub
 
   ```bash
-  git clone https://github.com/rohansah29/polite-sheep-7319.git
-  ```
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:rohansah29/polite-sheep-7319.git
+  git clone https://github.com/nagalpooja/HealthFitnessTracker.git
   ```
 
 * Install node modules
