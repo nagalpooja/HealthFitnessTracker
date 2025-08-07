@@ -4,7 +4,8 @@
 ![health fitness](https://github.com/rohansah29/polite-sheep-7319/assets/119648587/548ca961-afd8-44c4-910a-5d0c73896b1b)
 
 ## Track your fitness page
-![Uploading Screenshot 2025-08-08 at 12.35.07 AM.png…]()
+<img width="752" height="329" alt="Screenshot 2025-08-08 at 12 36 06 AM" src="https://github.com/user-attachments/assets/2f1d4fe6-ec1b-4ce8-aee1-7d555ca71ffc" />
+
 
 
 This is a health & fitness website which specialize in tracking your fitness activities. The website provides fitness programs,fitness tracking dashboard and fitness related memberships .
